@@ -1,7 +1,7 @@
 // @ts-check
 /// <reference types="jest" />
 
-const capitalise = require("./capitalise");
+const capitalise = require("../src/capitalise");
 
 describe("capitalise", () => {
   test.each([

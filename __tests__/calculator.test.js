@@ -1,4 +1,4 @@
-const calculator = require("./calculator");
+const calculator = require("../src/calculator");
 
 describe("calculator", () => {
   test("add", () => {

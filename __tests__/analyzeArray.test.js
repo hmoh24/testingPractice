@@ -1,4 +1,4 @@
-import analyzeArray from "./analyzeArray";
+import analyzeArray from "../src/analyzeArray";
 
 describe("analyze array", () => {
   test("1", () => {

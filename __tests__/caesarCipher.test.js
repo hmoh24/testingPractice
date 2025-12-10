@@ -1,4 +1,4 @@
-const caesarCipher = require("./caesarCipher");
+const caesarCipher = require("../src/caesarCipher");
 
 describe("caesarCipher", () => {
   test("abc, 3, simple", () => {
